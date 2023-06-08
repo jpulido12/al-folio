@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: jpulido12.github.io/al-folio/sitemap.xml
